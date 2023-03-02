@@ -1,0 +1,1 @@
+Meta principal desse projeto é montar um Cardápio Digital de uma Hamburgueria.
